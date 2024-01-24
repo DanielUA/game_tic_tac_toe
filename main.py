@@ -18,4 +18,7 @@ class KikTacToe:
         self.board = [[0,0,0], [0,0,0], [0,0,0]]
         self.current_player = 1
 
-    
+    def handle_click(self, row, col):
+        pass
+
+
